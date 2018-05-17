@@ -1,3 +1,31 @@
+.You {
+	background: green;
+}
+.Iceberg {
+	background: cyan;
+	color: black;
+}
+
+.Very {
+	background: rgb(3, 113, 202);
+}
+
+.Lukewarm {
+	background: rgb(138, 40, 194);
+}
+
+.Warm {
+	background: rgb(190, 43, 92);
+}
+
+.Hot {
+	background: rgb(228, 27, 61);
+}
+
+.Burning {
+	background: red;
+}
+
 h2 {
 	margin: 0 auto;	
 	background: #cc324b;
